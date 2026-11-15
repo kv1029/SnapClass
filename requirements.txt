@@ -1,16 +1,24 @@
+streamlit
+# Utilitites 
 numpy
 pandas
+
+# FACE RECOGNITION
 scikit-learn
 dlib-bin
-
-
 git+https://github.com/ageitgey/face_recognition_models
 setuptools<70.0.0
+
 
 supabase
 bcrypt
 
-segno #used to create qr code
-pillow 
 
-streamlit
+
+segno
+pillow
+
+
+
+librosa
+resemblyzer
